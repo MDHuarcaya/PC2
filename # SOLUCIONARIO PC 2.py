@@ -158,3 +158,4 @@ print("Texto sin vocales:", eliminar_vocales(cadena))
 
 ## Ejercicio 10
 
+
